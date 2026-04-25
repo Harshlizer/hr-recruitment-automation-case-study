@@ -1,0 +1,42 @@
+<svg width="1400" height="1180" viewBox="0 0 1400 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1180" fill="#F8FAFC"/>
+  <text x="96" y="86" fill="#13324D" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Security Review Task Creation</text>
+  <text x="96" y="126" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="20">Mock Planner detail panel with safe placeholder values</text>
+  <rect x="88" y="176" width="1224" height="926" rx="26" fill="#FFFFFF" stroke="#D7E0EA" stroke-width="2"/>
+  <rect x="88" y="176" width="1224" height="78" rx="26" fill="#EFF4FA"/>
+  <text x="134" y="226" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Update task details</text>
+
+  <text x="136" y="314" fill="#394B5F" font-family="Segoe UI, Arial, sans-serif" font-size="20">Task Id</text>
+  <rect x="410" y="282" width="760" height="56" rx="12" fill="#F6F9FC" stroke="#D6E0EA"/>
+  <text x="442" y="318" fill="#4A637D" font-family="Consolas, monospace" font-size="22">PLN-SEC-XXXX</text>
+
+  <text x="136" y="396" fill="#394B5F" font-family="Segoe UI, Arial, sans-serif" font-size="20">Description</text>
+  <rect x="410" y="364" width="760" height="666" rx="18" fill="#F6F9FC" stroke="#D6E0EA"/>
+  <text x="444" y="416" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Candidate Screening Summary</text>
+
+  <rect x="444" y="452" width="268" height="38" rx="10" fill="#DDEAF9"/>
+  <text x="466" y="477" fill="#30506C" font-family="Segoe UI, Arial, sans-serif" font-size="18">Position: Operations Specialist</text>
+  <rect x="730" y="452" width="232" height="38" rx="10" fill="#DDEAF9"/>
+  <text x="752" y="477" fill="#30506C" font-family="Segoe UI, Arial, sans-serif" font-size="18">Country: [REDACTED]</text>
+
+  <rect x="444" y="510" width="220" height="38" rx="10" fill="#E5F3EA"/>
+  <text x="466" y="535" fill="#2D5B43" font-family="Segoe UI, Arial, sans-serif" font-size="18">Consent: Granted</text>
+  <rect x="682" y="510" width="252" height="38" rx="10" fill="#E5F3EA"/>
+  <text x="704" y="535" fill="#2D5B43" font-family="Segoe UI, Arial, sans-serif" font-size="18">Data processing: Granted</text>
+
+  <text x="444" y="602" fill="#394B5F" font-family="Segoe UI, Arial, sans-serif" font-size="20">Candidate profile</text>
+  <path d="M444 624H1118" stroke="#D1DCE7" stroke-width="2"/>
+  <text x="444" y="670" fill="#566A7F" font-family="Segoe UI, Arial, sans-serif" font-size="19">Name: [REDACTED]</text>
+  <text x="444" y="708" fill="#566A7F" font-family="Segoe UI, Arial, sans-serif" font-size="19">Birth date: [MASKED]</text>
+  <text x="444" y="746" fill="#566A7F" font-family="Segoe UI, Arial, sans-serif" font-size="19">Contacts: [MASKED_EMAIL] / [MASKED_PHONE]</text>
+  <text x="444" y="784" fill="#566A7F" font-family="Segoe UI, Arial, sans-serif" font-size="19">Previous employment: summarized for reviewer</text>
+  <text x="444" y="822" fill="#566A7F" font-family="Segoe UI, Arial, sans-serif" font-size="19">Notes: placeholder text used in public project version</text>
+
+  <text x="444" y="896" fill="#394B5F" font-family="Segoe UI, Arial, sans-serif" font-size="20">Outcome convention</text>
+  <rect x="444" y="920" width="148" height="36" rx="10" fill="#E5F3EA"/>
+  <text x="468" y="944" fill="#2D5B43" font-family="Segoe UI, Arial, sans-serif" font-size="18">Approved</text>
+  <rect x="612" y="920" width="136" height="36" rx="10" fill="#FCE8E8"/>
+  <text x="638" y="944" fill="#8A3C3C" font-family="Segoe UI, Arial, sans-serif" font-size="18">Rejected</text>
+  <rect x="768" y="920" width="196" height="36" rx="10" fill="#FFF4D8"/>
+  <text x="792" y="944" fill="#80611A" font-family="Segoe UI, Arial, sans-serif" font-size="18">Needs clarification</text>
+</svg>

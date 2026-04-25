@@ -1,0 +1,55 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F4F7FB"/>
+  <defs>
+    <filter id="shadow" x="0" y="0" width="1200" height="900" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#20304A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <text x="88" y="96" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Candidate Intake Automation</text>
+  <text x="88" y="136" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="20">Mock Power Automate flow with redacted placeholders</text>
+  <g filter="url(#shadow)">
+    <rect x="120" y="190" width="420" height="120" rx="18" fill="#FFFFFF"/>
+    <rect x="120" y="190" width="14" height="120" rx="7" fill="#1F2937"/>
+    <rect x="160" y="224" width="54" height="54" rx="14" fill="#4E9BA6"/>
+    <text x="240" y="244" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">When a new response is</text>
+    <text x="240" y="274" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">submitted</text>
+    <text x="240" y="304" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="18">Source: Microsoft Forms</text>
+
+    <rect x="120" y="392" width="420" height="120" rx="18" fill="#FFFFFF"/>
+    <rect x="120" y="392" width="14" height="120" rx="7" fill="#1F2937"/>
+    <rect x="160" y="426" width="54" height="54" rx="14" fill="#4E9BA6"/>
+    <text x="240" y="447" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Get response details</text>
+    <text x="240" y="480" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="18">Fields mapped to internal record</text>
+
+    <rect x="120" y="594" width="420" height="120" rx="18" fill="#FFFFFF"/>
+    <rect x="120" y="594" width="14" height="120" rx="7" fill="#1F2937"/>
+    <rect x="160" y="628" width="54" height="54" rx="14" fill="#56A6A6"/>
+    <text x="240" y="649" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Create item in SharePoint List</text>
+    <text x="240" y="682" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="18">Candidate record: [REDACTED_FIELDS]</text>
+  </g>
+
+  <circle cx="330" cy="350" r="30" fill="#FFFFFF" stroke="#3B82F6" stroke-width="4"/>
+  <path d="M330 334V366" stroke="#3B82F6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M314 350H346" stroke="#3B82F6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M330 322V310" stroke="#98A5B3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M330 380V392" stroke="#98A5B3" stroke-width="5" stroke-linecap="round"/>
+
+  <circle cx="330" cy="552" r="30" fill="#FFFFFF" stroke="#3B82F6" stroke-width="4"/>
+  <path d="M330 536V568" stroke="#3B82F6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M314 552H346" stroke="#3B82F6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M330 524V512" stroke="#98A5B3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M330 582V594" stroke="#98A5B3" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="640" y="220" width="430" height="460" rx="24" fill="#EAF1FB"/>
+  <text x="680" y="278" fill="#16324F" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Stored Output</text>
+  <rect x="680" y="320" width="350" height="54" rx="12" fill="#FFFFFF"/>
+  <text x="705" y="355" fill="#48617A" font-family="Consolas, monospace" font-size="20">Candidate ID: CAND-XXXX</text>
+  <rect x="680" y="392" width="350" height="54" rx="12" fill="#FFFFFF"/>
+  <text x="705" y="427" fill="#48617A" font-family="Consolas, monospace" font-size="20">Position: [REDACTED]</text>
+  <rect x="680" y="464" width="350" height="54" rx="12" fill="#FFFFFF"/>
+  <text x="705" y="499" fill="#48617A" font-family="Consolas, monospace" font-size="20">Contacts: [MASKED]</text>
+  <rect x="680" y="536" width="350" height="54" rx="12" fill="#FFFFFF"/>
+  <text x="705" y="571" fill="#48617A" font-family="Consolas, monospace" font-size="20">Consent flags: TRUE / TRUE</text>
+  <text x="680" y="638" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="18">This visual is a portfolio-safe mockup,</text>
+  <text x="680" y="666" fill="#5B6B7F" font-family="Segoe UI, Arial, sans-serif" font-size="18">not a production export.</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "templateName": "standard-offer-letter",
+  "autoFilledFields": [
+    "candidateFullName",
+    "positionTitle",
+    "employmentType",
+    "startDate",
+    "workLocation",
+    "managerName"
+  ],
+  "manualHrInputs": [
+    "salary",
+    "bonusTerms",
+    "specialConditions"
+  ],
+  "signatureProvider": "Adobe Sign"
+}

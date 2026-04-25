@@ -1,0 +1,24 @@
+{
+  "candidateId": "CAND-2026-001",
+  "submissionDate": "2026-04-23T09:30:00Z",
+  "position": "Operations Specialist",
+  "employmentCountry": "Kazakhstan",
+  "workMode": "Hybrid",
+  "availabilityDate": "2026-05-15",
+  "securityCheckConsent": true,
+  "dataProcessingConsent": true,
+  "candidateProfile": {
+    "fullName": "Alex Example",
+    "dateOfBirth": "1995-08-10",
+    "email": "alex.example@sample.test",
+    "phone": "+1-555-0100",
+    "linkedin": "https://linkedin.com/in/example-profile"
+  },
+  "reviewStatus": {
+    "sharePointRecordCreated": true,
+    "htmlSnapshotCreated": true,
+    "plannerTaskCreated": true,
+    "securityReviewOutcome": "Approved",
+    "hrNotified": true
+  }
+}
